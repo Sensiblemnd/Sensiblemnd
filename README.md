@@ -1,4 +1,6 @@
-### Hi there Im Rob lloveras [website][twitter]
+### Hi there Im Rob lloveras [website]
+
+#twitter [twitter]
 
 ### Languages and Tools:
 
