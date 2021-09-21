@@ -1,6 +1,6 @@
 ### Hi there Im Rob lloveras [website]
 
-#twitter [twitter]
+[twitter]
 
 ### Languages and Tools:
 
