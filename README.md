@@ -16,6 +16,6 @@
 
 
 [website]:http://lloveras.info
-[bsky]:(ttps://bsky.app/profile/lloveras.info)
+[bsky]: ttps://bsky.app/profile/lloveras.info
 
 
